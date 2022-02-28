@@ -1,0 +1,82 @@
+*{
+    margin: 0rem;
+
+}
+.formularz{
+    background-color: red;
+    position: relative;
+
+}
+.panel{
+    background-color: #477387;
+    float:  right;
+    height: 970px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+div b a{
+    color: red;
+    text-decoration: none;
+    font-size: 22px;
+    margin: 25px;
+
+}
+a:hover {
+    text-decoration: underline;
+ }
+div p{
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    margin: 25px;
+    
+}
+div b{
+    margin: 5px;
+}
+body{
+    background-color: #daa520;
+    
+}
+#btn{
+    background: transparent;
+}
+#waga{
+    
+    border: none;
+    position: absolute;
+    top: 7%;
+    left: 291%;
+}
+.container{
+
+    height: 1000px;
+    
+}
+.position-relative {
+    position: relative;
+    }
+#result {
+    position: absolute;
+    top: 800%;
+    left: 183%;
+    background-color: red;
+}
+
+.input{
+    top: 30%;
+    left: 8%;
+    position: absolute;
+}
+#oblicz{
+    position: absolute;
+    top: 375%;
+    left: 182%;
+    background-color: red;
+}
+#height{
+    height:30px;
+}
+#weight{
+    height:30px;
+}
